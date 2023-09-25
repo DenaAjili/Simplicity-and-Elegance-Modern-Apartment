@@ -1,3 +1,5 @@
-# project9
+# Simplicity and Elegance: Modern Apartment
 3d design ,interior design    
 for this product, it is used 3ds max software for modeling and in addition it is used V-ray to create materials and rendering and it is used Marvelous Designer software to make cushion and fabric.
+
+The design process of this apartment revolved around a theme of modern simplicity with a touch of natural elegance. Clean and simple geometry was the guiding principle, creating a sense of visual harmony throughout the space. The living room, adorned in a soothing light brown palette, featured a chic Tortilla and Chocolate color curtain for added depth and sophistication. Light green chairs around the dining table introduced a refreshing contrast. The dining table itself, made from light wood, added a touch of warmth to the space. In the living room, a comfortable r sofa with cream color invited relaxation, complemented by a substantial vase of vibrant plants for a breath of nature. The light blue lampshade added a subtle pop of color while wooden elements in the design, such as boxes and plates, infused natural textures. Finally, light blue cushions tied the elements together, creating a balanced and inviting atmosphere that celebrated both modern simplicity and a connection to the outdoors.
